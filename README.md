@@ -1,7 +1,9 @@
 # Proyecto-retencion-clientes
 Estudiar al detalle cómo se comportan los usuarios y las usuarias de servicios en una cadena de gimnasios
 
-CONTEXTO:
+---
+
+CONTEXTUALIZACIÓN
 
 La cadena de gimnasios Model Fitness está desarrollando una estrategia de interacción con clientes basada en datos analíticos.
 
